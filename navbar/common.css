@@ -1,0 +1,19 @@
+#navbar{
+    display:flex;
+    justify-content: space-around;
+}
+h1+div{
+    display: flex;
+    gap:20px;
+}
+#investorForm{
+    margin-top: 20px;
+}
+h1,p{
+    text-align: center;
+    color:blueviolet;
+}
+h1+div div{
+    background-color: bisque;
+    font-size: 20px;
+}
